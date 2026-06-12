@@ -27,12 +27,6 @@ const brands = [
   },
 ];
 
-const stats = [
-  { num: "3", label: "Brands" },
-  { num: "12+", label: "Locations" },
-  { num: "2018", label: "Founded" },
-];
-
 export function HeroSection() {
   const ref = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
