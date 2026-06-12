@@ -81,7 +81,7 @@ export function HeroSection() {
                         <span className="text-transparent [-webkit-text-stroke:1px_var(--primary)]">
                           Beyond{" "}
                         </span>
-                        <span className="text-foreground">Food.</span>
+                        <span className="text-foreground">Branding.</span>
                       </>
                     ) : i === 0 ? (
                       <>

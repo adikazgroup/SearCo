@@ -171,7 +171,7 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} Sear &amp; Co. All rights reserved.
         </p>
         <p className="text-muted-foreground text-xs tracking-wider">
-          Flame &middot; Redchili &middot; Sear &amp; Sizzle
+          Flame &middot; Sear &amp; Sizzle
         </p>
       </div>
     </footer>
